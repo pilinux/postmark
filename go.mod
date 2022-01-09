@@ -1,4 +1,4 @@
-module github.com/piLinux/postmark
+module github.com/pilinux/postmark
 
 go 1.17
 

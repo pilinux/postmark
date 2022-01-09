@@ -8,6 +8,7 @@
 ## Real-time notifications from [Postmark][11] [webhooks][12]
 
 &#9889; Receive notifications via webhooks
+
 &#9889; Save events in MySQL / PostgreSQL / SQLite
 
 ### Best use-case
@@ -17,7 +18,7 @@ sending transactional emails to a fake/bad email address
 
 ### Features
 
-Version: `0.1.0`
+Version: `0.1.1`
 
 | Message type  | Supported          |
 | ------------- | ------------------ |
@@ -28,7 +29,7 @@ Version: `0.1.0`
 ### Setup
 
 - You need a MySQL / PostgreSQL instance, or you can use SQLite
-- Download the binary `go install github.com/piLinux/postmark@latest`
+- Download the binary `go install github.com/pilinux/postmark@latest`
 - Create a free project on [Sentry][13] to track errors
   - Choose `Go` as the platform
   - Save the `DNS` (format: `https://secret_code@abc.ingest.sentry.io/secret_number`)

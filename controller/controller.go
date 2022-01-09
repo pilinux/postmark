@@ -3,7 +3,7 @@ package controller
 import (
 	"net/http"
 
-	"github.com/piLinux/postmark/model"
+	"github.com/pilinux/postmark/model"
 
 	"github.com/gin-gonic/gin"
 

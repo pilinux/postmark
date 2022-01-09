@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/piLinux/postmark/controller"
-	"github.com/piLinux/postmark/migration"
+	"github.com/pilinux/postmark/controller"
+	"github.com/pilinux/postmark/migration"
 
 	"github.com/pilinux/gorest/config"
 	"github.com/pilinux/gorest/database"

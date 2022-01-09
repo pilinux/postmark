@@ -3,7 +3,7 @@ package migration
 import (
 	"fmt"
 
-	"github.com/piLinux/postmark/model"
+	"github.com/pilinux/postmark/model"
 
 	"github.com/pilinux/gorest/config"
 	"github.com/pilinux/gorest/database"
